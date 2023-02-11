@@ -13,6 +13,6 @@ Hello, my name is Regey anggara, I’m a beginner blogger
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=idnblogpro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=idnblogpro&icon=5&color=10)](https://visitcount.itsvg.in)
-
+# <img src="https://badgen.net/badge/Profile%20views/15M/red" alt="Star Badge"/>
+<a href="https://discord.gg/XTW52Kt">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
